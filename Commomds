@@ -1,1 +1,155 @@
+/*CMD
+  command: /quiz2
+  help: 
+  need_reply: false
+  auto_retry_time: 
+  folder: Commomds All quiz
+CMD*/
+
+var question = "Which method is used in BJS to send a text message to a user?";
+var options = ["Api.sendMessage()", "Bot.write()", "console.log()", "send.Text()"];
+
+Api.sendPoll({
+  chat_id: user.telegramid,
+  question: question,
+  options: options,
+  is_anonymous: false,
+  type: "quiz",
+  correct_option_id: 0,
+  explanation: "Api.sendMessage() is the correct method to send a text message in Bots.Business."
+});
+
+Api.sendMessage({
+  chat_id: user.telegramid,
+  text: "Click Next to continue.",
+  reply_markup: {
+    inline_keyboard: [
+      [{ text: "Next ➡️", callback_data: "/quiz3" }]
+    ]
+  }
+});
+
+Cmd: /quiz2,
+var question = "Which method is used in BJS to send a text message to a user?";
+var options = ["Api.sendMessage()", "Bot.write()", "console.log()", "send.Text()"];
+
+Api.sendPoll({
+  chat_id: user.telegramid,
+  question: question,
+  options: options,
+  is_anonymous: false,
+  type: "quiz",
+  correct_option_id: 0,
+  explanation: "Api.sendMessage() is the correct method to send a text message in Bots.Business."
+});
+
+Api.sendMessage({
+  chat_id: user.telegramid,
+  text: "Click Next to continue.",
+  reply_markup: {
+    inline_keyboard: [
+      [{ text: "Next ➡️", callback_data: "/quiz3" }]
+    ]
+  }
+});
+
+Cmd: quiz3,
+var question = "How do you store and retrieve variables in BB bots?";
+var options = [
+  "Using Bot.saveVar() and Bot.getVar()",
+  "Using Api.store() and Api.read()",
+  "By writing in a text file",
+  "You cannot store variables in BB"
+];
+
+Api.sendPoll({
+  chat_id: user.telegramid,
+  question: question,
+  options: options,
+  is_anonymous: false,
+  type: "quiz",
+  correct_option_id: 0,
+  explanation: "Bot.saveVar(name, value) stores a variable and Bot.getVar(name) retrieves it in Bots.Business."
+});
+
+Api.sendMessage({
+  chat_id: user.telegramid,
+  text: "Click Next to continue.",
+/*CMD
+  command: /quiz2
+  help: 
+  need_reply: false
+  auto_retry_time: 
+  folder: Commomds All quiz
+CMD*/
+
+var question = "Which method is used in BJS to send a text message to a user?";
+var options = ["Api.sendMessage()", "Bot.write()", "console.log()", "send.Text()"];
+
+Api.sendPoll({
+  chat_id: user.telegramid,
+  question: question,
+  options: options,
+  is_anonymous: false,
+  type: "quiz",
+  correct_option_id: 0,
+  explanation: "Api.sendMessage() is the correct method to send a text message in Bots.Business."
+});
+
+Api.sendMessage({
+  chat_id: user.telegramid,
+  text: "Click Next to continue.",
+  reply_markup: {
+    inline_keyboard: [
+      [{ text: "Next ➡️", callback_data: "/quiz3" }]
+    ]
+  }
+});
+
+Cmd: /quiz2,
+var question = "Which method is used in BJS to send a text message to a user?";
+var options = ["Api.sendMessage()", "Bot.write()", "console.log()", "send.Text()"];
+
+Api.sendPoll({
+  chat_id: user.telegramid,
+  question: question,
+  options: options,
+  is_anonymous: false,
+  type: "quiz",
+  correct_option_id: 0,
+  explanation: "Api.sendMessage() is the correct method to send a text message in Bots.Business."
+});
+
+Api.sendMessage({
+  chat_id: user.telegramid,
+  text: "Click Next to continue.",
+  reply_markup: {
+    inline_keyboard: [
+      [{ text: "Next ➡️", callback_data: "/quiz3" }]
+    ]
+  }
+});
+
+Cmd: quiz3,
+var question = "How do you store and retrieve variables in BB bots?";
+var options = [
+  "Using Bot.saveVar() and Bot.getVar()",
+  "Using Api.store() and Api.read()",
+  "By writing in a text file",
+  "You cannot store variables in BB"
+];
+
+Api.sendPoll({
+  chat_id: user.telegramid,
+  question: question,
+  options: options,
+  is_anonymous: false,
+  type: "quiz",
+  correct_option_id: 0,
+  explanation: "Bot.saveVar(name, value) stores a variable and Bot.getVar(name) retrieves it in Bots.Business."
+});
+
+Api.sendMessage({
+  chat_id: user.telegramid,
+  text: "Click Next to continue.",
 
