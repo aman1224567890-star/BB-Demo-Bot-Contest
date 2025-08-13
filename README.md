@@ -2,7 +2,7 @@
 It's A Telegram Bot For http://Bots.business Web And app where it guide new, old, and upcoming Commers To The App It helps Them in Coding By quizzes, learning codes, and basic need are introduced to The Users With Also introduced an Ai In That It May Drag  Users To Our Application 
 
 
- — The Complete Bots.Business Guide Bot
+ — **The Complete Bots.Business Guide Bot**
  
 <img width="196" height="196" alt="1000142307" src="https://github.com/user-attachments/assets/92e1b4ab-86bb-43a5-ba36-59b3c0659cc9" />
 
@@ -10,7 +10,7 @@ It's A Telegram Bot For http://Bots.business Web And app where it guide new, old
 
 ---
 
-📌 Overview
+📌 **Overview**
 
 This bot is your all-in-one guide for understanding, exploring, and mastering the Bots.Business platform — whether you are:
 
@@ -26,13 +26,13 @@ From interactive quizzes to coding examples, from introductory videos to real-ti
 
 ---
 
-🔹 Key Features
+🔹 **Key Features**
 
 ![1000142298](https://github.com/user-attachments/assets/eaca1659-2231-4906-9a6a-a0be40067e68)
 
 ---
 
-1️⃣ User Guidance for All
+1️⃣ **User Guidance for All**
 
 
 Old Users → Quick access to advanced tips, feature updates, and optimization tricks
@@ -47,7 +47,7 @@ you can learn Codes More and more by this bot
 
 ---
 
-2️⃣ Interactive Quizzes
+2️⃣ **Interactive Quizzes**
 
 ![1000142303](https://github.com/user-attachments/assets/bb6b22bd-b447-42b0-92f3-3dab123fcaab)
 
@@ -67,7 +67,7 @@ We Give Few Demo Bot At Yout Bb Email Yout Need to Write Any thing Just Enter yo
 
 ---
 
-3️⃣ BJS Code Examples
+3️⃣ **BJS Code Examples**
 
 We Have Create the Bots In The App like in this pages
 ![1000142314](https://github.com/user-attachments/assets/93941f29-b053-41d6-a58a-644557290335)
@@ -85,7 +85,7 @@ Perfect for beginners to learn by doing
 
 ---
 
-4️⃣ Intro Videos & Demos
+4️⃣ **Intro Videos & Demos**
 
 ![1000142292](https://github.com/user-attachments/assets/1e44033d-3aac-4908-882c-06eb888709d9)
 
@@ -100,7 +100,7 @@ Tutorials on how to create, edit, and enhance your own bot
 
 ---
 
-5️⃣ App Status
+5️⃣ **App Status**
 
 ![1000142290](https://github.com/user-attachments/assets/4e3f6406-2997-49e2-983a-c161d58699ca)
 
@@ -113,7 +113,7 @@ Know if there are any updates, downtimes, or changes
 
 ---
 
-6️⃣ Broadcasting & Support
+6️⃣ **Broadcasting & Support**
 
 We have Installed Fastest Broadcast System with Status and Admin Powered Support east system For Users
 ![1000142312](https://github.com/user-attachments/assets/09d535bf-fa72-483a-974e-0b339679e065)
@@ -134,7 +134,7 @@ and A Simple Doubt , Support System for users to ask Clarify thie Queries
 
 ---
 
-7️⃣ We Have Introduced New AI Assistance By Chat Gpt
+7️⃣ **We Have Introduced New AI Assistance By Chat Gpt**
 
 ![1000142301](https://github.com/user-attachments/assets/2985e181-a0d5-40e9-82c6-a4cccedc7e0d)
 
@@ -147,7 +147,7 @@ Get coding tips, bot ideas, and troubleshooting steps directly inside the bot
 
 ---
 
-📚 Learn About Bots.Business
+📚 _Learn About Bots.Business_
 
 
 🔹 What is Bots.Business?
