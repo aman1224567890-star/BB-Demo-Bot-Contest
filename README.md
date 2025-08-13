@@ -3,7 +3,7 @@ It's A Telegram Bot For http://Bots.business Web And app where it guide new, old
 
 
  — The Complete Bots.Business Guide Bot
-
+ 
 <img width="196" height="196" alt="1000142307" src="https://github.com/user-attachments/assets/92e1b4ab-86bb-43a5-ba36-59b3c0659cc9" />
 
 
@@ -41,6 +41,8 @@ New Users → Step-by-step getting started guide with essential resources
 
 Potential Users → Preview the platform with demo bots and an intro video
 
+you can learn Codes More and more by this bot
+![1000142302](https://github.com/user-attachments/assets/22f09cf2-03f9-49c1-937f-2e392108fb46)
 
 
 ---
@@ -54,7 +56,9 @@ Fun & engaging quizzes to test your Bots.Business knowledge
 
 Questions cover basic commands, BJS (Bot JavaScript) coding, and platform features
 
-Leaderboard & points system to track progress and encourage learning
+We Give Few Demo Bot At Yout Bb Email Yout Need to Write Any thing Just Enter your Email then go to app tgen wnter bot token and launch Launch so easy ![1000142297](https://github.com/user-attachments/assets/1fa724fa-6460-4c68-8025-0d38dd39b1a9)
+
+
 
  your can learn through quizes if your answer get wrong an pop sms with solution shows like this 
  ![1000142305](https://github.com/user-attachments/assets/d7a55c4d-06d1-476b-a3e6-ae983fdb7f7f)
@@ -145,12 +149,13 @@ Get coding tips, bot ideas, and troubleshooting steps directly inside the bot
 
 📚 Learn About Bots.Business
 
-(Add Platform Logo or Image Here)
 
 🔹 What is Bots.Business?
 
 Bots.Business is a no-code & low-code platform for creating advanced Telegram bots.
 It allows users to create bots without complex programming knowledge, while still enabling JavaScript-based customizations for advanced functions.
+
+![1000142299](https://github.com/user-attachments/assets/2f89e8ea-174b-47d1-867a-b708bdd169e5)
 
 
 ---
